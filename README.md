@@ -1,24 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=500&color=e53e3e&background=a7111100&center=true&vCenter=true&width=600&height=70&lines=FSF+TECH+x+FSF+SHOP" alt="FSF Branding" />
+<img src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" width="100%" alt="Nyan Cat Animation" />
 
-<img src="https://github.com/brudnak/brudnak/raw/master/assets/cat-ninja.gif" width="100%" alt="Ninja Cat Animation" />
+<h1> M. FIKRI SURYA FIRDAUS </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Aktif-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" />
-  <img src="https://img.shields.io/badge/Device-Asus_TUF-5B5B5B?style=flat-square&logo=asus" />
 </p>
 
 ---
 
-### 🚀 About Me (M. Fikri Surya Firdaus)
+### 🚀 About Me
 Saya adalah seorang **Full Stack & Website Developer** yang menggunakan konfigurasi **Dual Boot (Arch Linux + Windows)** untuk efisiensi koding intensif dan stabilitas sistem.
 
 * 🛡️ **Cyber Security:** Spesialisasi di Network Scanning, Vulnerability Research, dan Penetration Testing.
 * 💻 **Tech Stack:** Fokus pada performa tinggi dan keamanan sistem.
-* 🤖 **Automation:** Developer bot kustom untuk WhatsApp, Telegram, & Discord (ZaneLab System).
+* 🤖 **Automation:** Developer bot kustom untuk WhatsApp, Telegram, & Discord.
 
 ---
 
@@ -45,11 +44,6 @@ Saya adalah seorang **Full Stack & Website Developer** yang menggunakan konfigur
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
 </p>
-
----
-
-### 🌐 Go International Service
-> **Note:** Proyek skala Internasional wajib melalui **Meeting/Discovery Call**. Harga menyesuaikan kriteria (Discord Design, Bot System, Maintenance, & Detail Animasi).
 
 ---
 
