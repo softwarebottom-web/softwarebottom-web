@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" width="100%" alt="Nyan Cat Animation" />
-
-<h1> M. FIKRI SURYA FIRDAUS </h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=500&color=e53e3e&background=a7111100&center=true&vCenter=true&width=600&height=70&lines=M.+FIKRI+SURYA+FIRDAUS" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Aktif-brightgreen?style=flat-square" />
@@ -13,19 +11,18 @@
 ---
 
 ### 🚀 About Me
-Saya adalah seorang **Full Stack & Website Developer** yang menggunakan konfigurasi **Dual Boot (Arch Linux + Windows)** untuk efisiensi koding intensif dan stabilitas sistem.
+Saya adalah seorang **Full Stack & Website Developer** yang mengandalkan konfigurasi **Dual Boot (Arch Linux + Windows)** untuk efisiensi koding intensif dan stabilitas sistem.
 
 * 🛡️ **Cyber Security:** Spesialisasi di Network Scanning, Vulnerability Research, dan Penetration Testing.
-* 💻 **Tech Stack:** Fokus pada performa tinggi dan keamanan sistem.
-* 🤖 **Automation:** Developer bot kustom untuk WhatsApp, Telegram, & Discord.
+* 🤖 **Automation:** Developer bot kustom untuk WhatsApp, Telegram, & Discord (ZaneLab System).
 
 ---
 
 ### 📊 GitHub Stats (Hitam Pekat & Anti-Error)
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=softwarebottom-web&show_icons=true&theme=tokyonight&bg_color=000000&title_color=38b2ac&text_color=ffffff&icon_color=38b2ac&border_color=4b3621&count_private=true" width="420" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=softwarebottom-web&show_icons=true&theme=tokyonight&bg_color=000000&title_color=38b2ac&text_color=ffffff&icon_color=38b2ac&border_color=4b3621&count_private=true" width="420" alt="Fikri Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=softwarebottom-web&theme=tokyonight&background=000000&ring=38b2ac&fire=38b2ac&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=softwarebottom-web&theme=tokyonight&background=000000&ring=38b2ac&fire=38b2ac&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="420" alt="GitHub Streak" />
 </p>
 
 ---
@@ -54,6 +51,9 @@ Saya adalah seorang **Full Stack & Website Developer** yang menggunakan konfigur
 </p>
 
 ---
-<p align="center">Built with 💙 by Fikri on Dual Boot System</p>
+
+<img src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif" width="100%" alt="Nyan Cat Footer" />
+
+<p align="center">Built with 💙 by M. Fikri Surya Firdaus on Dual Boot System</p>
 
 </div>
