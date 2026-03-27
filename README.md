@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=500&color=e53e3e&background=a7111100&center=true&vCenter=true&width=600&height=70&lines=M.+FIKRI+SURYA+FIRDAUS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=500&color=38B2AC&center=true&vCenter=true&width=600&height=70&lines=M.+FIKRI+SURYA+FIRDAUS" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Aktif-brightgreen?style=flat-square" />
@@ -14,7 +14,8 @@
 Saya adalah seorang **Full Stack & Website Developer** yang mengandalkan konfigurasi **Dual Boot (Arch Linux + Windows)** untuk efisiensi koding intensif dan stabilitas sistem.
 
 * 🛡️ **Cyber Security:** Spesialisasi di Network Scanning, Vulnerability Research, dan Penetration Testing.
-* 🤖 **Automation:** Developer bot kustom untuk WhatsApp, Telegram, & Discord (ZaneLab System).
+* 💻 **Tech Stack:** Fokus pada performa tinggi dan keamanan sistem.
+* 🤖 **Automation:** Developer bot kustom untuk WhatsApp, Telegram, & Discord.
 
 ---
 
