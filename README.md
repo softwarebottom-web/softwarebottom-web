@@ -1,45 +1,18 @@
-# Fikri Surya Firdaus
+# 💫 About Me:
+# Hi, I'm M. Fikri Surya Firdaus 👋<br>### Full Stack Developer | Web Specialist | Security Enthusiast<br><br>Seorang pengembang web yang berfokus pada membangun aplikasi yang efisien, aman, dan *scalable*. Saya memiliki ketertarikan kuat pada arsitektur sistem dan keamanan jaringan.<br><br>- 🚀 Menekuni pengembangan **Full Stack** menggunakan Tailwind CSS, FastAPI, & Supabase.<br>- 📱 Terbiasa melakukan *development* dan *scripting* langsung melalui lingkungan **Android (Termux)**.<br>- 🛡️ Memiliki minat mendalam di bidang **Cyber Security** & Penetration Testing.<br>- 🎓 Sedang aktif mengejar sertifikasi di **freeCodeCamp**.<br><br>### 🛠 Tech Stack<br>- **Languages:** Python, JavaScript, PHP, Pawn<br>- **Frontend:** HTML5, CSS3, Tailwind CSS, React/Next.js (Learning)<br>- **Backend & DB:** FastAPI, Firebase, Supabase, PostgreSQL<br>- **Tools:** Git, Termux, Nmap, Vercel<br><br>### 📈 Stats<br>![Fikri's GitHub stats](https://github-readme-stats.vercel.app/api?username=softwarebottom-web&show_icons=true&theme=tokyonight)<br>
 
-## 👋 Halo, saya adalah seorang Full Stack Developer!
 
-Saya memiliki keahlian dalam mengembangkan aplikasi web dengan fokus pada efisiensi, pengalaman pengguna, dan desain modern. Berikut adalah teknologi yang saya kuasai:
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fikri.support.center@gmail.com) 
 
-- **Python**
-- **React**
-- **JavaScript**
-- **Tailwind CSS**
-
-✨ Selama perjalanan karir saya, saya telah menyelesaikan berbagai proyek yang mencerminkan keterampilan dan hasrat saya terhadap pengembangan web.
-
----
-
-## 🚀 Skills
-- 💻 Membangun antarmuka pengguna yang dinamis dan responsif menggunakan React
-- ⚙️ Pengembangan backend dengan Python
-- 🌐 Penguasaan teknologi web seperti HTML, CSS, dan JavaScript
-- 🎨 Implementasi desain modern menggunakan Tailwind CSS
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=softwarebottom-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=softwarebottom-web&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=softwarebottom-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=softwarebottom-web&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Portfolio Projects
-### 🌟 Digital Store
-Proyek aplikasi e-commerce yang memungkinkan pengguna untuk mencari produk, menambah ke keranjang belanja, dan melakukan transaksi dengan aman.
-
-🔗 **[View Project](https://mfikri-portfolio.vercel.app/digital-store)**
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=softwarebottom-web&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=softwarebottom-web&layout=compact&theme=radical)
-
----
-
-## 📇 Contact Information
-- ✉️ Email: [fikri.support.center@gmail.com](mailto:fikri.support.center@gmail.com)
-- 🌐 Portfolio: [https://mfikri-portfolio.vercel.app/](https://mfikri-portfolio.vercel.app/)
-
----
-
-Mari tetap terhubung dan bekerja sama di proyek yang luar biasa! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
