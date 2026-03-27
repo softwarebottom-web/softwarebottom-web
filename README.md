@@ -25,14 +25,15 @@ Seorang pengembang web yang berfokus pada membangun aplikasi yang efisien dan am
 </p>
 
 ---
-
 ### 📈 GitHub Stats
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=softwarebottom-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Fikri's Stats" width="400" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwarebottom-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=softwarebottom-web&show_icons=true&theme=cobalt&bg_color=0d1117&title_color=38b2ac&text_color=ffffff&icon_color=38b2ac&border_color=4b3621" alt="Fikri Stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwarebottom-web&layout=compact&theme=cobalt&bg_color=0d1117&title_color=38b2ac&text_color=ffffff&border_color=4b3621" alt="Top Languages" />
+</p>
+
 
 ### 🌐 Go International Service
 > **Note:** Untuk proyek berskala Internasional (Global), diwajibkan untuk melakukan **Meeting/Discovery Call** terlebih dahulu. Harga akan disesuaikan berdasarkan kriteria dan kompleksitas proyek (Desain Discord, Bot System, Maintenance, & Detail Animasi).
