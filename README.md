@@ -1,51 +1,87 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=500&color=e53e3e&background=a7111100&center=true&vCenter=true&width=600&height=70&lines=FSF+TECH+x+FSF+SHOP" alt="FSF Branding" />
+# 👋 Halo, Saya Fikri Surya Firdaus!
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Aktif-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B9D&center=true&vCenter=true&width=500&height=100&lines=Fikri+Surya+Firdaus;Full+Stack+Developer;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
 
 ---
 
-### 🚀 About Me (Zane Developer)
-Saya adalah seorang **Full Stack & Website Developer** yang menggunakan konfigurasi **Dual Boot (Arch Linux + Windows)** untuk efisiensi koding intensif dan stabilitas sistem.
+## 🎮 Animated Stuff
 
-* 🛡️ **Cyber Security:** Spesialisasi di Network Scanning, Vulnerability Research, dan Penetration Testing.
-* 💻 **Tech Stack:** Tailwind CSS, FastAPI, Supabase, Firebase, & Pawn (SA-MP).
-* 🤖 **Automation:** Developer bot kustom untuk WhatsApp, Telegram, & Discord (ZaneLab).
+<img src="https://media.giphy.com/media/3o85xIO33l7RlmLR20/giphy.gif" width="200" alt="Mario Bros">
+<img src="https://media.giphy.com/media/IBn8V0phuGJpS/giphy.gif" width="200" alt="White Cat">
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=softwarebottom-web&show_icons=true&theme=tokyonight&bg_color=000000&title_color=38b2ac&text_color=ffffff&icon_color=38b2ac&border_color=4b3621&count_private=true" width="420" alt="Fikri Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=softwarebottom-web&theme=tokyonight&background=000000&ring=38b2ac&fire=38b2ac&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="420" alt="GitHub Streak" />
-</p>
+## 💻 Tech Stack & Languages
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Pawn-1F1F1F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NSIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg==" alt="Pawn">
+</div>
+
+<br>
+
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</div>
 
 ---
 
-### 🌐 Go International Service
-> **PENTING:** Untuk proyek skala internasional (Global), klien wajib melakukan **Meeting/Discovery Call** terlebih dahulu. Harga disesuaikan berdasarkan kriteria kompleksitas:
-> * Custom Design (Discord/Web) & Detail Animasi
-> * Bot Development & Maintenance
-> * Professional Branding & High-End Performance
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=softwarebottom-web&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwarebottom-web&layout=compact&theme=radical" alt="Top Languages" width="400">
+</div>
 
 ---
 
-### 📫 Connect With Me
-<p align="left">
-<a href="https://wa.me/6281234567890" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://digital-store-fikri.biz.id" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
-</p>
+## 🎯 Tentang Saya
+
+- 🔥 Passionate tentang **Web Development** & **Software Engineering**
+- 🎓 Terus belajar teknologi baru setiap hari
+- 💡 Suka berbagi pengetahuan dengan komunitas
+- 🚀 Goal: Menjadi developer yang excellent & berdampak
 
 ---
 
-<h1 align="center">
-  🔥🐱 Zane Developer x FSF TECH x FSF SHOP 🐱🔥
-</h1>
+## 🤝 Mari Terhubung!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fikrisurya)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fikrisurya)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fikrisurya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fikri@example.com)
+
+</div>
+
+---
+
+## 🎨 Fun Fact
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xTiTnM9hBtDUPszncc/giphy.gif" width="150" alt="Coding">
+  <p><i>"Code is poetry, and I'm here to write the most beautiful verses!" 💻✨</i></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=softwarebottom-web&color=blueviolet" alt="Profile Views">
+  <br>
+  <b>⭐ Terima kasih sudah berkunjung ke profil saya! Jangan lupa untuk ⭐ repo-repo menarik 😊</b>
+</div>
 
 </div>
