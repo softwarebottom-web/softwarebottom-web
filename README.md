@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-Saya adalah seorang **Full Stack & Website Developer** yang mengandalkan konfigurasi **Dual Boot (Arch Linux + Windows)** untuk efisiensi koding intensif dan stabilitas sistem.
+Saya adalah seorang **Full Stack & Website Developer** yang menggunakan konfigurasi **Dual Boot (Arch Linux + Windows)** untuk efisiensi koding intensif dan stabilitas sistem.
 
 * 🛡️ **Cyber Security:** Spesialisasi di Network Scanning, Vulnerability Research, dan Penetration Testing.
 * 💻 **Tech Stack:** Tailwind CSS, FastAPI, Supabase, Firebase, & Pawn (SA-MP).
@@ -23,9 +23,9 @@ Saya adalah seorang **Full Stack & Website Developer** yang mengandalkan konfigu
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=softwarebottom-web&show_icons=true&theme=tokyonight&bg_color=000000&title_color=38b2ac&text_color=ffffff&icon_color=38b2ac&border_color=4b3621&count_private=true" width="420" alt="Fikri Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=softwarebottom-web&show_icons=true&theme=tokyonight&bg_color=000000&title_color=38b2ac&text_color=ffffff&icon_color=38b2ac&border_color=4b3621&count_private=true" width="400" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=softwarebottom-web&theme=tokyonight&background=000000&ring=38b2ac&fire=38b2ac&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="420" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=softwarebottom-web&theme=tokyonight&background=000000&ring=38b2ac&fire=38b2ac&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="400" />
 </p>
 
 ---
@@ -39,22 +39,18 @@ Saya adalah seorang **Full Stack & Website Developer** yang mengandalkan konfigu
 ---
 
 ### 📫 Connect With Me
-<p align="left">
+<p align="center">
 <a href="https://wa.me/6281234567890" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://digital-store-fikri.biz.id" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
 </p>
 
 ---
 
-<table border="0" width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e0f09b5-f126-4444-9c01-72439589d892.gif" width="100%" alt="Mario Bros Animation" />
-    </td>
-    <td align="right" width="50%">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=500&color=e53e3e&background=a7111100&center=true&vCenter=true&width=600&height=70&lines=FSF+TECH+x+FSF+SHOP" alt="Typing SVG" />
-    </td>
-  </tr>
-</table>
+### 🛡️ FSF TECH x FSF SHOP 🛒
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=500&color=FF4500&background=00000000&center=true&vCenter=true&width=600&height=70&lines=FSF+TECH+x+FSF+SHOP" alt="FSF Branding" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/MaySrevi/MaySrevi/master/assets/mario.gif" width="100%" alt="Mario Animation" />
 
 </div>
